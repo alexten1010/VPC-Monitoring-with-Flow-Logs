@@ -16,7 +16,7 @@ Cost Efficiency: Monitor usage and identify unnecessary data transfer costs.
 
 
 
-******* Setup and Installation ********
+******* SETUP AND INSTALLATION ********
 
 Enable VPC Flow Logs:
 
@@ -32,7 +32,7 @@ Configure permissions if using CloudWatch Logs.
 
 
 
-Clone this repository:
+CLONE THIS REPO:
 
 git clone https://github.com/your-username/VPC-Monitoring-Flow-Logs.git
 cd VPC-Monitoring-Flow-Logs
