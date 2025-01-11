@@ -1,7 +1,8 @@
-             ********** VPC Monitoring with Flow Logs ***********
-       
-***** FEATURE *****
 
+ 
+   # VPC Monitoring with Flow Logs   
+   
+## FEATURE 
 
 
 Traffic Visibility: Capture information about IP traffic going to and from your VPC.
@@ -16,7 +17,7 @@ Cost Efficiency: Monitor usage and identify unnecessary data transfer costs.
 
 
 
-******* SETUP AND INSTALLATION ********
+## SETUP AND INSTALLATION 
 
 Enable VPC Flow Logs:
 
@@ -32,7 +33,7 @@ Configure permissions if using CloudWatch Logs.
 
 
 
-CLONE THIS REPO:
+## CLONE THIS REPO:
 
 git clone https://github.com/your-username/VPC-Monitoring-Flow-Logs.git
 cd VPC-Monitoring-Flow-Logs
